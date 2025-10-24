@@ -1,5 +1,5 @@
 # 🔆 Speech Emotion Recognition
-A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
+A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model. 
 
 ## ✳️ Visual Overview 
 
